@@ -2,13 +2,6 @@
 
 ---
 
-## 📝 Session Agenda
-- Bootcamp structure and goals
-- Introduction to complexity (Big-O notation)
-- Practice problems (Arrays & Strings)
-
----
-
 ## 🚀 Problems Covered in Class
 
 | Problem | Difficulty |
