@@ -14,10 +14,10 @@ This 12-week program progressively builds deep algorithmic skills and pattern re
 
 | Week | Topics                                                                                      | Difficulty |
 |------|---------------------------------------------------------------------------------------------|------------|
-| 0 | [Introduction, Arrays & Strings](sessions/week-00-introduction/week-00-introduction.md)     | 🔵 Easy |
+| 0 | [Introduction, Arrays & Strings](sessions/week-00-introduction/week-0-introduction.md)                         | 🔵 Easy |
 | 1 | [Two Pointers, Linked Lists](sessions/week-01-two-pointers/week-01-easy-two-pointers.md)    | 🟢 Easy |
 | 2 | [Binary Search](sessions/week-02-binary-search/week-02-binary-search.md)                    | 🟢 Easy/Medium |
-| 3 | [Hashing & Prefix Sum](sessions/week-03-hashing-prefix-sum.md)                              | 🟢 Easy/Medium |
+| 3 | [Hashing & Prefix Sum](sessions/week-03-hashing.md)                              | 🟢 Easy/Medium |
 | 4 | [Sliding Window & Greedy + Mock #1](sessions/week-04-sliding-window-greedy.md)              | 🟢 Easy/Medium |
 | 5 | [Merge Intervals & Cyclic Sort](sessions/week-05-merge-intervals-cyclic-sort.md)            | 🟡 Medium |
 | 6 | [Monotonic Stack & Advanced Linked Lists](sessions/week-06-monotonic-stack-linked-list.md)  | 🟡 Medium |
