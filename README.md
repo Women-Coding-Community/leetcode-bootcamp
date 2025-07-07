@@ -51,4 +51,4 @@ Each week, review the lecture notes (`sessions/`) and practice the problems list
 
 ---
 
-Happy coding and good luck! 🎯✨
+Happy coding and good luck! 🔥🎯✨
