@@ -41,6 +41,7 @@ To begin any binary search implementation, do the following:
 The search space encompasses all possible values that may include the value we’re searching for. For instance, when searching for a target in a sorted array, the search space should cover the array, as the target could be anywhere within it.
 
 This is illustrated in the array below, where `left` and `right` pointers define the search space:
+<img width="521" height="207" alt="search_space" src="https://github.com/user-attachments/assets/f27c8a3f-45c8-49c9-80a0-1399185509f7" />
 
 ---
 
